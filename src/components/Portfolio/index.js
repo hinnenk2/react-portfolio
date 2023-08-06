@@ -27,7 +27,7 @@ function Portfolio() {
             title: 'Project 3 - CinemaStash',
             name: 'cinemastash',
             description: 'Look up your favorite movies and save them for a rainy day',
-            deployedLink: "",
+            deployedLink: "https://cinema-stash-c85de8364f90.herokuapp.com/",
             gitHubRepo: "https://github.com/domconf/Cinema-Stash"
         },
       ];
