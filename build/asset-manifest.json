@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hinnenk2/react-portfolio/static/css/main.88d52cfa.chunk.css",
+    "main.js": "/hinnenk2/react-portfolio/static/js/main.17eab115.chunk.js",
+    "main.js.map": "/hinnenk2/react-portfolio/static/js/main.17eab115.chunk.js.map",
+    "runtime-main.js": "/hinnenk2/react-portfolio/static/js/runtime-main.c0447506.js",
+    "runtime-main.js.map": "/hinnenk2/react-portfolio/static/js/runtime-main.c0447506.js.map",
+    "static/css/2.4c34b247.chunk.css": "/hinnenk2/react-portfolio/static/css/2.4c34b247.chunk.css",
+    "static/js/2.ba7452d0.chunk.js": "/hinnenk2/react-portfolio/static/js/2.ba7452d0.chunk.js",
+    "static/js/2.ba7452d0.chunk.js.map": "/hinnenk2/react-portfolio/static/js/2.ba7452d0.chunk.js.map",
+    "static/js/3.c2945c13.chunk.js": "/hinnenk2/react-portfolio/static/js/3.c2945c13.chunk.js",
+    "static/js/3.c2945c13.chunk.js.map": "/hinnenk2/react-portfolio/static/js/3.c2945c13.chunk.js.map",
+    "index.html": "/hinnenk2/react-portfolio/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "/hinnenk2/react-portfolio/static/css/2.4c34b247.chunk.css.map",
+    "static/css/main.88d52cfa.chunk.css.map": "/hinnenk2/react-portfolio/static/css/main.88d52cfa.chunk.css.map",
+    "static/js/2.ba7452d0.chunk.js.LICENSE.txt": "/hinnenk2/react-portfolio/static/js/2.ba7452d0.chunk.js.LICENSE.txt",
+    "static/media/GitHub-logo.a34f373e.png": "/hinnenk2/react-portfolio/static/media/GitHub-logo.a34f373e.png",
+    "static/media/Ian Hinnenkamp's Professional Resume.d72abede.pdf": "/hinnenk2/react-portfolio/static/media/Ian Hinnenkamp's Professional Resume.d72abede.pdf",
+    "static/media/brewcast.JPG": "/hinnenk2/react-portfolio/static/media/brewcast.c5f01505.JPG",
+    "static/media/cinemastash.JPG": "/hinnenk2/react-portfolio/static/media/cinemastash.ba857926.JPG",
+    "static/media/linkedIn-logo.238ec218.png": "/hinnenk2/react-portfolio/static/media/linkedIn-logo.238ec218.png",
+    "static/media/profile_picture.1a205875.png": "/hinnenk2/react-portfolio/static/media/profile_picture.1a205875.png",
+    "static/media/realdill.JPG": "/hinnenk2/react-portfolio/static/media/realdill.e4440e33.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0447506.js",
+    "static/css/2.4c34b247.chunk.css",
+    "static/js/2.ba7452d0.chunk.js",
+    "static/css/main.88d52cfa.chunk.css",
+    "static/js/main.17eab115.chunk.js"
+  ]
+}
